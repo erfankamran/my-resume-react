@@ -1,21 +1,30 @@
-# React + TypeScript + Vite
+[![Watch tutorial here](https://img.youtube.com/vi/sUKptmUVIBM/0.jpg)](https://youtu.be/sUKptmUVIBM)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# [Watch video here](https://youtu.be/sUKptmUVIBM)
 
-While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+## What you will learn
 
-## Deploy Your Own
+- Latest Next.js 13 features
+- Next.js App Router
+- Next.js Server Actions
+- Client & Server Components
+- TypeScript (Beginner & Intermediate)
+- Tailwind CSS
+- Context API
+- Advanced Animations with Framer Motion
+- React.Email & Resend
+- Custom React hooks
+- Fresh, modern UI design
+- Light & Dark mode
+- Responsive website
 
-Deploy your own Vite project with Vercel.
+## Important
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/vite-react&template=vite-react)
+If you want to be a professional developer, you have to know the fundamentals like JavaScript and CSS really well. I highly recommend you go through my [Professional JavaScript](https://bytegrad.com/courses/professional-javascript) and [Professional CSS](https://bytegrad.com/courses/professional-css) courses.
 
-_Live Example: https://vite-react-example.vercel.app_
+I'm close to releasing a complete React & Next.js course. Get on the email list to receive early-bird pricing: [link](https://email.bytegrad.com/).
 
-### Deploying From Your Terminal
+## Setup
 
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
-
-```shell
-$ vercel
-```
+1. Add RESEND_API_KEY environment variable in .env.local
+2. In the send-email.ts action file, change the "to" email to your own email
